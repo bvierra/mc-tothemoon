@@ -1,0 +1,591 @@
+Lumium
+	nuggetLumium
+	plateLumium
+	gearLumium
+	itemGrindingBallLumium
+	blockLumium
+	ingotLumium
+	coinLumium
+	dustLumium
+
+RefinedObsidian
+
+Manyullyn
+	nuggetManyullyn
+	blockManyullyn
+	ingotManyullyn
+	dustManyullyn
+
+Soularium
+	ballSoularium
+	nuggetSoularium
+	blockSoularium
+	ingotSoularium
+	dustSoularium
+
+DarkIron
+	oreDarkIron
+	blockDarkIron
+	ingotDarkIron
+	dustDarkIron
+
+ConstructionAlloy
+	ballConstructionAlloy
+	nuggetConstructionAlloy
+	blockConstructionAlloy
+	ingotConstructionAlloy
+	dustConstructionAlloy
+
+Lead
+	plateLead
+	gearLead
+	nuggetLead
+	oreLead
+	blockLead
+	ingotLead
+	coinLead
+	dustLead
+
+PulsatingIron
+	ballPulsatingIron
+	nuggetPulsatingIron
+	blockPulsatingIron
+	ingotPulsatingIron
+	dustPulsatingIron
+
+ConductiveIron
+	ballConductiveIron
+	nuggetConductiveIron
+	blockConductiveIron
+	ingotConductiveIron
+	dustConductiveIron
+
+StellarAlloy
+	ballStellarAlloy
+	nuggetStellarAlloy
+	blockStellarAlloy
+	ingotStellarAlloy
+	dustStellarAlloy
+
+EnergeticAlloy
+	ballEnergeticAlloy
+	nuggetEnergeticAlloy
+	blockEnergeticAlloy
+	ingotEnergeticAlloy
+	dustEnergeticAlloy
+
+RefinedIron
+
+Yellorium
+	oreYellorium
+	blockYellorium
+	ingotYellorium
+	dustYellorium
+
+Gold
+	plateGold
+	gearGold
+	nuggetGold
+	oreGold
+	blockGold
+	ingotGold
+	coinGold
+	dustGold
+
+EndSteel
+	ballEndSteel
+	nuggetEndSteel
+	blockEndSteel
+	ingotEndSteel
+	dustEndSteel
+
+DarkSteel
+	ballDarkSteel
+	nuggetDarkSteel
+	blockDarkSteel
+	ingotDarkSteel
+	dustDarkSteel
+
+Palladium
+	orePalladium
+	blockPalladium
+	ingotPalladium
+	dustPalladium
+
+ReinforcedObsidian
+	blockReinforcedObsidian
+	ingotReinforcedObsidian
+	dustReinforcedObsidian
+
+Wakurium
+	blockWakurium
+	ingotWakurium
+	dustWakurium
+
+Ludicrite
+	blockLudicrite
+	ingotLudicrite
+	dustLudicrite
+
+CrudeSteel
+	ballCrudeSteel
+	nuggetCrudeSteel
+	blockCrudeSteel
+	ingotCrudeSteel
+	dustCrudeSteel
+
+Steel
+	compressedSteel
+	plateSteel
+	gearSteel
+	nuggetSteel
+	blockSteel
+	ingotSteel
+	coinSteel
+	dustSteel
+
+RefinedGlowstone
+
+Constantan
+	plateConstantan
+	gearConstantan
+	nuggetConstantan
+	blockConstantan
+	ingotConstantan
+	coinConstantan
+	dustConstantan
+
+RareEarthmetal
+
+Iridium
+	plateIridium
+	gearIridium
+	nuggetIridium
+	oreIridium
+	blockIridium
+	ingotIridium
+	coinIridium
+	dustIridium
+
+Bronze
+	compressedBronze
+	plateBronze
+	gearBronze
+	nuggetBronze
+	blockBronze
+	ingotBronze
+	coinBronze
+	dustBronze
+
+Titanium
+	shardTitanium
+	compressedTitanium
+	blockTitanium
+	ingotTitanium
+	dustTitanium
+
+Tin
+	compressedTin
+	plateTin
+	gearTin
+	nuggetTin
+	oreTin
+	blockTin
+	ingotTin
+	coinTin
+	dustTin
+
+Retium
+	gemRetium
+	blockRetium
+	ingotRetium
+	dustRetium
+
+EvilMetal
+	blockEvilMetal
+	ingotEvilMetal
+	dustEvilMetal
+
+Platinum
+	platePlatinum
+	gearPlatinum
+	nuggetPlatinum
+	orePlatinum
+	blockPlatinum
+	ingotPlatinum
+	coinPlatinum
+	dustPlatinum
+
+Gadolinium
+	ingotGadolinium
+	dustGadolinium
+
+MelodicAlloy
+	ballMelodicAlloy
+	nuggetMelodicAlloy
+	blockMelodicAlloy
+	ingotMelodicAlloy
+	dustMelodicAlloy
+
+Uranium
+	oreUranium
+	blockUranium
+	ingotUranium
+	dustUranium
+
+Osmium
+
+Electrum
+	plateElectrum
+	gearElectrum
+	nuggetElectrum
+	blockElectrum
+	ingotElectrum
+	coinElectrum
+	dustElectrum
+
+Infinity
+	gearIronInfinity
+
+Cyanite
+	blockCyanite
+	ingotCyanite
+	dustCyanite
+
+Pigiron
+	nuggetPigiron
+	blockPigiron
+	ingotPigiron
+	dustPigiron
+
+Invar
+	plateInvar
+	gearInvar
+	nuggetInvar
+	blockInvar
+	ingotInvar
+	coinInvar
+	dustInvar
+
+Unstable
+	nuggetUnstable
+	ingotUnstable
+	dustUnstable
+
+Alumite
+	nuggetAlumite
+	blockAlumite
+	ingotAlumite
+	dustAlumite
+
+Lithium
+	ingotLithium
+	dustLithium
+
+Wub
+	gemWub
+	ingotWub
+	dustWub
+
+Iron
+	stickIron
+	barsIron
+	shardIron
+	compressedIron
+	doorIron
+	plateIron
+	gearIron
+	nuggetIron
+	oreIron
+	blockIron
+	ingotIron
+	coinIron
+	dustIron
+
+CrystallineAlloy
+	ballCrystallineAlloy
+	nuggetCrystallineAlloy
+	blockCrystallineAlloy
+	ingotCrystallineAlloy
+	dustCrystallineAlloy
+
+EnergeticSilver
+	ballEnergeticSilver
+	nuggetEnergeticSilver
+	blockEnergeticSilver
+	ingotEnergeticSilver
+	dustEnergeticSilver
+
+Tungsten
+	oreTungsten
+	blockTungsten
+	ingotTungsten
+	dustTungsten
+
+Quantanium
+	blockQuantanium
+	ingotQuantanium
+	dustQuantanium
+
+Flint
+	blockFlint
+	ingotFlint
+	dustFlint
+
+Neodymium
+	ingotNeodymium
+	dustNeodymium
+
+Lapis
+	gemLapis
+	oreLapis
+	blockLapis
+	ingotLapis
+	dustLapis
+
+Draconium
+	nuggetDraconium
+	oreDraconium
+	blockDraconium
+	ingotDraconium
+	dustDraconium
+
+Quartz
+	blockQuartz
+	dustNetherQuartz
+	gemQuartz
+	oreQuartz
+	slabQuartz
+	ingotQuartz
+	fusedQuartz
+	dustQuartz
+
+Nickel
+	plateNickel
+	gearNickel
+	nuggetNickel
+	oreNickel
+	blockNickel
+	ingotNickel
+	coinNickel
+	dustNickel
+
+Signalum
+	nuggetSignalum
+	plateSignalum
+	gearSignalum
+	itemGrindingBallSignalum
+	blockSignalum
+	ingotSignalum
+	coinSignalum
+	dustSignalum
+
+Graphite
+	blockGraphite
+	ingotGraphite
+	dustGraphite
+
+Mercury
+	oreMercury
+	blockMercury
+	ingotMercury
+	dustMercury
+
+MeteoricIron
+	compressedMeteoricIron
+	ingotMeteoricIron
+	dustMeteoricIron
+
+ElectrumFlux
+	plateElectrumFlux
+	gearElectrumFlux
+	nuggetElectrumFlux
+	blockElectrumFlux
+	ingotElectrumFlux
+	dustElectrumFlux
+
+Plutonium
+	ingotPlutonium
+	dustPlutonium
+
+Magnesium
+	oreMagnesium
+	blockMagnesium
+	ingotMagnesium
+	dustMagnesium
+
+Copper
+	compressedCopper
+	plateCopper
+	gearCopper
+	nuggetCopper
+	oreCopper
+	blockCopper
+	ingotCopper
+	coinCopper
+	dustCopper
+
+Magnetite
+	oreMagnetite
+	ingotMagnetite
+	dustMagnetite
+
+DemonicMetal
+	blockDemonicMetal
+	ingotDemonicMetal
+	dustDemonicMetal
+
+Ardite
+	nuggetArdite
+	oreArdite
+	blockArdite
+	ingotArdite
+	dustArdite
+
+Alubrass
+	nuggetAlubrass
+	blockAlubrass
+	ingotAlubrass
+	dustAlubrass
+
+EnchantedMetal
+	blockEnchantedMetal
+	ingotEnchantedMetal
+	dustEnchantedMetal
+
+VibrantAlloy
+	ballVibrantAlloy
+	nuggetVibrantAlloy
+	blockVibrantAlloy
+	ingotVibrantAlloy
+	dustVibrantAlloy
+
+VividAlloy
+	ballVividAlloy
+	nuggetVividAlloy
+	blockVividAlloy
+	ingotVividAlloy
+	dustVividAlloy
+
+Neon
+	gemNeon
+	blockNeon
+	ingotNeon
+	dustNeon
+
+ElectricalSteel
+	ballElectricalSteel
+	nuggetElectricalSteel
+	blockElectricalSteel
+	ingotElectricalSteel
+	dustElectricalSteel
+
+Zinc
+	oreZinc
+	blockZinc
+	ingotZinc
+	dustZinc
+
+Blutonium
+	blockBlutonium
+	ingotBlutonium
+	dustBlutonium
+
+Silver
+	plateSilver
+	gearSilver
+	nuggetSilver
+	oreSilver
+	blockSilver
+	ingotSilver
+	coinSilver
+	dustSilver
+
+Mithril
+	plateMithril
+	gearMithril
+	nuggetMithril
+	oreMithril
+	blockMithril
+	ingotMithril
+	coinMithril
+	dustMithril
+
+NaturalAluminum
+	oreNaturalAluminum
+
+Desh
+	oreDesh
+	blockDesh
+	ingotDesh
+
+Cobalt
+	nuggetCobalt
+	oreCobalt
+	blockCobalt
+	ingotCobalt
+	dustCobalt
+
+Aluminum
+	compressedAluminum
+	gemAluminum
+	plateAluminum
+	gearAluminum
+	nuggetAluminum
+	oreAluminum
+	blockAluminum
+	ingotAluminum
+	coinAluminum
+	dustAluminum
+
+Enderium
+	nuggetEnderium
+	plateEnderium
+	gearEnderium
+	itemGrindingBallEnderium
+	blockEnderium
+	ingotEnderium
+	coinEnderium
+	dustEnderium
+
+Crystal
+	oreCrystal
+	itemAttractorCrystal
+	itemPulsatingCrystal
+	itemVibrantCrystal
+	itemPrecientCrystal
+	itemWeatherCrystal
+	itemEnderCrystal
+	blockCrystal
+	ingotCrystal
+	dustCrystal
+
+RareEarthMetal
+	blockMenelausRareEarthMetal
+	ingotRareEarthMetal
+	dustRareEarthMetal
+
+Carbon
+	oreCarbon
+	blockCarbon
+	ingotCarbon
+	dustCarbon
+
+Glowtite
+	gemGlowtite
+	blockGlowtite
+	ingotGlowtite
+	dustGlowtite
+
+DraconiumAwakened
+	nuggetDraconiumAwakened
+	blockDraconiumAwakened
+	ingotDraconiumAwakened
+	dustDraconiumAwakened
+
+Bioterium
+	gemBioterium
+	blockBioterium
+	ingotBioterium
+	dustBioterium
+
