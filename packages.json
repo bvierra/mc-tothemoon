@@ -3,9 +3,9 @@
   "packages" : [
     {
       "title" : "IntoxiKaite leaves the overworld",
-      "name" : "IntoxiKaite",
-      "version" : "20181114-a39b126",
-      "location" : "intoxikaite.json",
+      "name" : "IntoxiKaite leaves the overworld",
+      "version" : "20181119-966b9b7",
+      "location" : "intoxikaite-leaves-the-overworld.json",
       "priority" : 0
     }
   ]
