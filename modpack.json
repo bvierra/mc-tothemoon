@@ -12,7 +12,7 @@
   },
   "launch" : {
     "flags" : [
-      "-Dfml.ignoreInvalidMinecraftCertificates=true -XX:+UseG1GC -XX:+UnlockExperimentalVMOptions -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -Dfml.readTimeout=9000 -Xmx8192"
+      "-Dfml.ignoreInvalidMinecraftCertificates=true -XX:+UseG1GC -XX:+UnlockExperimentalVMOptions -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -Dfml.readTimeout=9000 -Xms4096 -Xmx8192"
     ]
   }
 }

@@ -10,12 +10,12 @@ particles:0
 bobView:false
 anaglyph3d:false
 maxFps:120
-fboEnable:false
+fboEnable:true
 difficulty:1
 fancyGraphics:false
 ao:2
 renderClouds:true
-resourcePacks:[]
+resourcePacks:["PureBDcraft  32x MC112.zip","Sphax32x_BOP_Ver7.0.1.2393.zip","Sphax32x_FurnitureMod_MC1.12.zip","Sphax_JustEnoughItems_512x-64x.zip","PureBDcraft More 3D Blocks MC112.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
