@@ -1,0 +1,24 @@
+# Configuration file
+
+~CONFIG_VERSION: 0.1.0
+
+world-28671179 {
+    B:cheatItemsEnabled=false
+    B:editEnabled=false
+    S:filterText=reco
+    B:overlayEnabled=true
+}
+
+
+world1949486403 {
+    B:cheatItemsEnabled=true
+
+    # Hide and unhide ingredients by clicking them in the list.
+    B:editEnabled=false
+    S:filterText=pick
+
+    # Show the list of ingredients next to open guis.
+    B:overlayEnabled=true
+}
+
+
